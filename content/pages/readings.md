@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: df77c508-7eba-ad14-53bb-826b9c5caf5e
 ---
@@ -174,7 +177,7 @@ Chapter 4
 
 Wafer Cleaning and Gettering - Contamination Measurement Techniques
 
-Oxidation and the Si/SiO2 Interface - Uses of Oxides and CV Measurement Techniques
+Oxidation and the Si/SiO{{< sub "2" >}} Interface - Uses of Oxides and CV Measurement Techniques
 
 
 {{< tdclose >}}
@@ -198,7 +201,7 @@ Chapter 4 and start chapter 6
 {{< tdopen >}}
 
 
-Oxidation and the Si/SiO2 Interface: Deal/Grove Model, Thin Oxide Models
+Oxidation and the Si/SiO{{< sub "2" >}} Interface: Deal/Grove Model, Thin Oxide Models
 
 
 {{< tdclose >}}
@@ -222,7 +225,7 @@ Chapter 6
 {{< tdopen >}}
 
 
-Oxidation and the Si/SiO2 Interface: 2D Effects, Doping Effects, Point Defects
+Oxidation and the Si/SiO{{< sub "2" >}} Interface: 2D Effects, Doping Effects, Point Defects
 
 
 {{< tdclose >}}
