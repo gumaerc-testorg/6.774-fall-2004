@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: The calendar table provides the course schedule - the list of topics
+  taught in class and the assignment key dates.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Calendar
