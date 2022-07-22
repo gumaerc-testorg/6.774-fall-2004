@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: The syllabus section provides course objectives, tells who should take
+  this class, prerequisites, lists required text and the grading policy for the course
+  along with information on the term project.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: faef5ff8-f855-85ae-a46f-e8469080c661
 ---

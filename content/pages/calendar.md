@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: The calendar table provides the course schedule - the list of topics
+  taught in class and the assignment key dates.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Calendar
 uid: 8dce0755-5602-d948-ee02-9884fd86bcea
 ---
@@ -125,7 +129,7 @@ Homework 1 due
 
 Wafer Cleaning and Gettering - Contamination Measurement Techniques
 
-Oxidation and the Si/SiO2 Interface - Uses of Oxides and CV Measurement Techniques
+Oxidation and the Si/SiO{{< sub "2" >}} Interface - Uses of Oxides and CV Measurement Techniques
 
 
 {{< tdclose >}}
@@ -149,7 +153,7 @@ Homework 2 out
 {{< tdopen >}}
 
 
-Oxidation and the Si/SiO2 Interface: Deal/Grove Model, Thin Oxide Models
+Oxidation and the Si/SiO{{< sub "2" >}} Interface: Deal/Grove Model, Thin Oxide Models
 
 
 {{< tdclose >}}
@@ -169,7 +173,7 @@ Oxidation and the Si/SiO2 Interface: Deal/Grove Model, Thin Oxide Models
 {{< tdopen >}}
 
 
-Oxidation and the Si/SiO2 Interface: 2D Effects, Doping Effects, Point Defects
+Oxidation and the Si/SiO{{< sub "2" >}} Interface: 2D Effects, Doping Effects, Point Defects
 
 
 {{< tdclose >}}
