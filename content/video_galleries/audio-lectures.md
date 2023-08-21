@@ -1,6 +1,7 @@
 ---
 content_type: video_gallery
 description: ''
+draft: false
 is_media_gallery: true
 learning_resource_types:
 - Lecture Audio
@@ -32,7 +33,6 @@ videos:
   - fcd80460-06b9-d751-6455-438598323bba
   website: 6-774-physics-of-microfabrication-front-end-processing-fall-2004
 ---
-
+The audio lectures are available on the Internet Archive at: [https://archive.org/details/podcast_physics-microfabrication-f_341597859](https://archive.org/details/podcast_physics-microfabrication-f_341597859).
 
 {{< video-gallery "83288621-5c35-eb8f-8c81-28d7ca76e7a1" >}}
-
