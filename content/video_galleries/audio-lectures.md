@@ -10,29 +10,29 @@ title: Audio Lectures
 uid: 83288621-5c35-eb8f-8c81-28d7ca76e7a1
 videos:
   content:
-  - 4f7bedbe-eb89-34d9-9f9f-c73b5c9badcd
-  - 6856bf18-ac36-303b-9745-21c2eac25596
-  - 841a550f-dcd1-7301-1cb2-f3456d2b9319
-  - d7924b9d-517b-c920-739a-b46bcc28f6f3
-  - 71354482-9209-580c-b22a-133ecb93ee0a
-  - 8c8485c8-4038-429d-d2f9-d7aefa900d94
-  - e174d1e6-f47e-00ef-91d2-789f5eaba34d
-  - 49e1c9ab-746f-6cd8-574c-26943877f1db
-  - 9adadf63-293b-00bb-5dc8-e07104fc1a23
-  - 104d49db-0014-c068-68d6-b6130d08dcd3
-  - 1dfd2375-01fa-bd46-b0e6-aefde69279ea
-  - d6b57b16-1ef6-1271-b1d0-beb1db8fbedd
-  - a5ed01c4-91f1-4f0d-081b-551dfd8a2c1b
-  - ee797e30-48e7-6c80-da77-9a0938bef672
-  - f78a3c05-4bef-ad9e-d085-8fbe46638685
-  - 41b7f918-427f-6396-1930-c9ef57c069ae
-  - 9491ef95-10ce-c95e-ab61-fae0c52babe8
-  - 0457e272-f6b6-666b-1a04-6b92562286a9
-  - 369d4a52-d27a-a970-e122-23fca82d09a7
-  - a24da038-080f-6546-8806-dcb6ce182d91
-  - fcd80460-06b9-d751-6455-438598323bba
+  - 9ada33dd-a5a1-47d5-bcb0-2e50c93a8fdc
+  - 42b63593-0f40-4cfe-91fa-446bff81859c
+  - 49fccd36-e9d6-4b1d-a7cc-fbcb058510a1
+  - 5b5353a1-91da-401f-a2fe-4c23a08f1083
+  - 7474f811-d47d-45e5-8dda-37f356b6a90c
+  - b5ddac3a-e40a-4e7a-901d-1a4f18f3c5f1
+  - 3d22717a-4822-46cd-aafb-544b5f82b1ce
+  - a2a74242-7aee-4199-a3b3-4b0c4c5ae6ca
+  - bb80082d-7f50-411b-8cbc-919ee109053a
+  - 06a8d8dd-2d1d-40ab-8dad-dfa4eea7f1a2
+  - fd3c1bcd-67d0-496e-abe4-946f163e3e72
+  - 30b724c9-a82e-44ad-901f-7fe21d48be0e
+  - ca71f9a3-5067-4d34-861d-7d32194888a2
+  - 45390837-5ece-4fcf-b7a5-88ffa0a693b3
+  - 584fbd42-34c2-4850-9f99-ff6a4b7d3a1c
+  - 63ee31d8-55e8-4ed3-8994-013936bbf774
+  - 54517a89-a543-45ed-9dfb-832d4c237381
+  - 4aaa5dcf-f889-4ee3-b825-b0f052d91c33
+  - ccbb335e-9116-4c1a-8b8a-cfe1db220c11
+  - 296f9975-b08d-4230-8c1d-1e1e2c671bcc
+  - 3c2bca2a-63f6-410a-b252-85e1d58d2ce6
   website: 6-774-physics-of-microfabrication-front-end-processing-fall-2004
 ---
-The audio lectures are available on the Internet Archive at: [https://archive.org/details/podcast_physics-microfabrication-f_341597859](https://archive.org/details/podcast_physics-microfabrication-f_341597859).
+NOTE: Lectures 1 and 2 are not available.
 
 {{< video-gallery "83288621-5c35-eb8f-8c81-28d7ca76e7a1" >}}
